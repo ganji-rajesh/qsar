@@ -1,0 +1,21 @@
+{
+    "Target": "CHEMBL203",
+    "Total Compounds Processed": 630,
+    "Random Forest Metrics": {
+        "Accuracy": 0.9523809523809523,
+        "Precision": 0.9595959595959596,
+        "Recall": 0.979381443298969,
+        "F1": 0.9693877551020408,
+        "MCC": 0.863204930817759,
+        "ROC_AUC": 0.9790259509420548
+    },
+    "SVM Metrics": {
+        "Accuracy": 0.9047619047619048,
+        "Precision": 0.9047619047619048,
+        "Recall": 0.979381443298969,
+        "F1": 0.9405940594059405,
+        "MCC": 0.7167192307599969,
+        "ROC_AUC": 0.9797369356558833
+    },
+    "Selected Model": "SVM"
+}

@@ -11,12 +11,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Outputs and logs
-outputs/
-*.log
 
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # Environments
 .env
