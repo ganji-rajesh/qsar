@@ -1,0 +1,33 @@
+# Virtual Environment
+virtual_env/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Outputs and logs
+outputs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Typo file from editor
+.gitingnore
